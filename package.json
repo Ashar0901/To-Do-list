@@ -1,0 +1,23 @@
+{
+  "name": "ashar-91-todolist",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {"access": "public"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "inquirer": "^9.2.20",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
